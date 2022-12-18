@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pllealfunes
-- 👀 I’m interested in full stack web development, books, and crochet.
-- 🌱 I’m currently a student and learning React.
+- 🌱 Learning React and Material UI.
 - 📫 How to reach me: https://plf-portfolio.netlify.app/
 
 <!---
