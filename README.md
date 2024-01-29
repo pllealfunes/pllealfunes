@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 ### :white_check_mark: Completed Projects :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=hobbyist2&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/hobbyist2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=bites-restaurant&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/bites-restaurant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=e15&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/e15/p3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=e15&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/e15/tree/main/p3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=library-typescript&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/library-typescript)
