@@ -34,20 +34,22 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="40" height="40"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
 
-- 🎉 Recent;y completed CS50'S introduction to Databases with SQL.
+- 🎉 Recent;y received a certificate for completing CS50'S Introduction to Databases with SQL.
 - 🔭 I’m currently working on Laravel Flashcards. Visit my repository below :arrow_down: to learn more about this full stack project.
-- 🌱 I’m currently learning Vue.js Composition API.
-- 📈 Would like to improve Tailwind and Typescript.
-- 📚 Would like to learn Python, Django, React Native, Next.js, and Nuxt.js
+- 🌱 I’m currently learning Laravel, Vue.js Composition API, Inertia.js, and Tailwind.
+- 📈 Would like to improve Typescript.
+- 📚 Would like to learn Python, Django, React Native, Next.js, and Nuxt.js.
+- ✅ I love using Notion to stay organized, keep track of project tasks, and save code snippets.
 
 
 ---
