@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
+- 🎉 Recent;y completed Laravel Flashcards.Visit my repository below :arrow_down: to learn more about this full stack project
 - 🎉 Recent;y received a certificate for completing CS50'S Introduction to Databases with SQL.
-- 🔭 I’m currently working on Laravel Flashcards. Visit my repository below :arrow_down: to learn more about this full stack project.
-- 🌱 I’m currently learning Laravel, Vue.js Composition API, Inertia.js, and Tailwind.
-- 📈 Would like to improve Typescript.
-- 📚 Would like to learn Python, Django, React Native, Next.js, and Nuxt.js.
+- 🔭 I’m currently working on rebuilding Hobbyist 2 using Next.js + TypeScript.
+- 🌱 I’m currently learning Next.js and TypeScript.
+- 📚 Would like to learn Python, Django, React Native, and Nuxt.js.
 - ✅ I love using Notion to stay organized, keep track of project tasks, and save code snippets.
 
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :construction_worker_woman: Current Project : Laravel Flashcards
+### :construction_worker_woman: Recently Completed Project : Laravel Flashcards
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=laravel-flashcards&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/laravel-flashcards)
 
 ---
