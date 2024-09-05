@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- 🎉 Recent;y completed Laravel Flashcards.Visit my repository below :arrow_down: to learn more about this full stack project
-- 🎉 Recent;y received a certificate for completing CS50'S Introduction to Databases with SQL.
-- 🔭 I’m currently working on rebuilding Hobbyist 2 using Next.js + TypeScript.
-- 🌱 I’m currently learning Next.js and TypeScript.
+- 🎉 Recently completed Laravel Flashcards. Visit my repository below :arrow_down: to learn more about this full stack project.
+- 🎉 Recently received a certificate for completing CS50'S Introduction to Databases with SQL.
+- 🔭 I’m currently working on rebuilding Hobbyis using Next.js + TypeScript + Shadcn + Zod + Postgres.
+- 🌱 I’m currently learning Next.js + TypeScript.
 - 📚 Would like to learn Python, Django, React Native, and Nuxt.js.
 - ✅ I love using Notion to stay organized, keep track of project tasks, and save code snippets.
 
