@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 ### :construction_worker_woman: Currently Working On : Next Hobbyist
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=nextjs-hobbyists&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/nextjs-hobbyist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=nextjs-hobbyist&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/nextjs-hobbyist)
 
 ---
 
