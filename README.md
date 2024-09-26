@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- 🎉 Recently completed Laravel Flashcards. Visit my repository below :arrow_down: to learn more about this full stack project.
-- 🎉 Recently received a certificate for completing CS50'S Introduction to Databases with SQL.
-- 🔭 I’m currently working on rebuilding Hobbyis using Next.js + TypeScript + Shadcn + Zod + Postgres.
-- 🌱 I’m currently learning Next.js + TypeScript.
+- 🔭 I’m currently working on rebuilding Hobbyist using Next.js + TypeScript + Tailwind + Shadcn + Zod + Postgres + Vercel. Visit the repo below to follow along.
+- 🎉 Recently completed Laravel Flashcards. Visit the repo below :arrow_down: to learn more about this full stack project.
+- 🎉 Recently completed CS50'S Introduction to Databases with SQL.
+- 🌱 Full Stack Developer To Be.
 - 📚 Would like to learn Python, Django, React Native, and Nuxt.js.
 - ✅ I love using Notion to stay organized, keep track of project tasks, and save code snippets.
 
@@ -59,15 +59,13 @@ Here are some ideas to get you started:
 
 ---
 
-### :construction_worker_woman: Recently Completed Project : Laravel Flashcards
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=laravel-flashcards&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/laravel-flashcards)
+### :construction_worker_woman: Currently Working On : Next Hobbyist
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=nextjs-hobbyists&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/nextjs-hobbyist)
 
 ---
 
 ### :white_check_mark: Completed Projects :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=laravel-flashcards&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/laravel-flashcards)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=hobbyist2&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/hobbyist2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=library-typescript&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/library-typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=bites-restaurant&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/bites-restaurant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=e15&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/e15/tree/main/p3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=php-gallery&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/php-gallery)
 
