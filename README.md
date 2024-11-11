@@ -69,3 +69,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=hobbyist2&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/hobbyist2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=library-typescript&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/library-typescript)
 
+
+---
+template credit: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
