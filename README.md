@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on rebuilding Hobbyist using Next.js + TypeScript + Tailwind + Shadcn + Zod + Postgres + Vercel. Visit the repo below to follow along.
+- 🔭 I’m currently working on rebuilding Hobbyist using Next.js + TypeScript + Tailwind + Shadcn + Zod + Postgres + Supabase + Cloudinary + Vercel. Visit the repo below to follow along.
 - 🎉 Recently completed Laravel Flashcards. Visit the repo below :arrow_down: to learn more about this full stack project.
 - 🎉 Recently completed CS50'S Introduction to Databases with SQL.
 - 🌱 Full Stack Developer To Be.
