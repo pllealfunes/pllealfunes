@@ -45,10 +45,8 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on rebuilding Hobbyist using Next.js + TypeScript + Tailwind + Shadcn + Zod + Postgres + Supabase + Cloudinary + Vercel. Visit the repo below to follow along.
-- 🎉 Recently completed Laravel Flashcards. Visit the repo below :arrow_down: to learn more about this full stack project.
-- 🎉 Recently completed CS50'S Introduction to Databases with SQL.
-- 🌱 Full Stack Developer To Be.
-- 📚 Would like to learn Python, Django, React Native, and Nuxt.js.
+- 🌱 Taing CS50 Intro to Python.
+- 📚 Would like to learn Django, React Native, and Nuxt.js.
 - ✅ I love using Notion to stay organized, keep track of project tasks, and save code snippets.
 
 
@@ -67,7 +65,7 @@ Here are some ideas to get you started:
 ### :white_check_mark: Completed Projects :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=laravel-flashcards&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/laravel-flashcards)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=hobbyist2&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/hobbyist2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=library-typescript&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/library-typescript)
+
 
 
 ---
