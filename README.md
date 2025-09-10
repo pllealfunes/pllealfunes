@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
+- 🌱 Taking CS50 Intro to Programming with Python.
 - 🔭 I’m currently working on rebuilding Hobbyist using Next.js + TypeScript + Tailwind + Shadcn + Zod + Postgres + Supabase + Cloudinary + Vercel. Visit the repo below to follow along.
-- 🌱 Taing CS50 Intro to Python.
 - 📚 Would like to learn Django, React Native, and Nuxt.js.
 - ✅ I love using Notion to stay organized, keep track of project tasks, and save code snippets.
 
