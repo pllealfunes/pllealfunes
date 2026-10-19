@@ -42,32 +42,25 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
-- 🌱 Taking CS50 Intro to Programming with Python.
-- 🔭 I’m currently working on rebuilding Hobbyist using Next.js + TypeScript + Tailwind + Shadcn + Zod + Postgres + Supabase + Cloudinary + Vercel. Visit the repo below to follow along.
-- 📚 Would like to learn Django, React Native, and Nuxt.js.
-- ✅ I love using Notion to stay organized, keep track of project tasks, and save code snippets.
+Entry-level cybersecurity professional working toward a cloud security career.
 
+## What I'm working on
+- 🔐 **InfoSec:** supporting an infosec team with user lifecycle and access removal (termination) work
+- ☁️ **Cloud security:** studying for Microsoft SC-200 (Security Operations Analyst), with SC-300 identity topics alongside
+- 🐍 **Python:** writing small scripts to automate security tasks, starting with a stale-account and log-parsing tool
+- 🐧 **Linux and networking:** practicing in an Ubuntu VM, with hands-on labs using Wireshark
 
----
+## Certifications
+- CompTIA Security+
+- Microsoft SC-900, AZ-900, DP-900
+- SC-200 (scheduled)
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pllealfunes&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/github-readme-stats)
+## Projects
+- 🛠️ [repo name]: Python script that flags stale or suspicious usernames *(link when ready)*
+- 🧪 [repo name]: networking and security lab notes *(link when ready)*
 
----
-
-### :construction_worker_woman: Currently Working On : Next Hobbyist
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=nextjs-hobbyist&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/nextjs-hobbyist)
-
----
-
-### :white_check_mark: Completed Projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=laravel-flashcards&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/laravel-flashcards)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pllealfunes&repo=hobbyist2&layout=compact&theme=vision-friendly-dark)](https://github.com/pllealfunes/hobbyist2)
-
-
-
----
-template credit: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+## Where I'm headed
+Cloud and identity security, with an interest in securing AI systems.
 
