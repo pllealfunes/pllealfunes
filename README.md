@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p1bjlwYjRhaTVxMXdod2o0dTFpNXlueDVyeXRxdzZwc3F3MG5rayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="100"/>
-  <br>
-  <br>
-  <p>"I don't know where I am going, but I am on my way" - Voltaire</p>
 </div>
 
 ---
