@@ -55,7 +55,7 @@ Entry-level cybersecurity professional working toward a cloud security career.
 - Microsoft SC-900, AZ-900, DP-900
 
 ## Projects
-- 🛠️ [https://github.com/pllealfunes/stale-account-checker]: Python script that flags stale or suspicious usernames 
+- 🛠️ [Stale Account Checker](https://github.com/pllealfunes/stale-account-checker): Python script that flags stale or suspicious usernames 
 - 🧪 [repo name]: networking and security lab notes *(link when ready)*
 
 ## Where I'm headed
