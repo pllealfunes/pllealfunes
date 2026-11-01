@@ -51,11 +51,11 @@ Entry-level cybersecurity professional working toward a cloud security career.
 
 ## Certifications
 - CompTIA Security+
+- ISC2 CC
 - Microsoft SC-900, AZ-900, DP-900
-- SC-200 (scheduled)
 
 ## Projects
-- 🛠️ [repo name]: Python script that flags stale or suspicious usernames *(link when ready)*
+- 🛠️ [https://github.com/pllealfunes/stale-account-checker]: Python script that flags stale or suspicious usernames 
 - 🧪 [repo name]: networking and security lab notes *(link when ready)*
 
 ## Where I'm headed
